@@ -60,6 +60,12 @@ If you're using **VS Code**, a pre-configured `.vscode/launch.json` is included.
 - Press `F5` or go to **Run > Start Debugging**
 - Select the appropriate launch config (server or client)
 
+## 📸 Screenshot
+
+Below is a preview of how we create a prompt in the chat UI to send requests to the MCP server:
+
+![Chat Screenshot](docs/chat-screenshot.png)
+
 ## 📄 License
 
 MIT License
